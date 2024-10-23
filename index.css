@@ -1,0 +1,21 @@
+html, body {
+	color: white;
+	font-family: Monospace;
+	text-align: center;
+	margin: 0 15%;
+	width: 75%;
+	border: 2px solid blue;
+}
+
+h1 {
+	background-color: light gray;
+	margin-top: 20px;
+	padding: 0;
+}
+
+h2 {
+	background-color: light gray;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+}
