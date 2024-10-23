@@ -1,6 +1,4 @@
 html, body {
-	color: white;
-	font-family: Monospace;
 	text-align: center;
 	margin: 0 15%;
 	width: 75%;
@@ -8,14 +6,18 @@ html, body {
 }
 
 h1 {
-	background-color: light gray;
+	background-color: #D3D3D3;
 	margin-top: 20px;
 	padding: 0;
 }
 
-h2 {
-	background-color: light gray;
+h3 {
+	background-color: #D3D3D3;
 	font-style: italic;
 	margin: 0;
 	padding: 0;
+}
+
+h3 {
+	font-family: Monospace;
 }
